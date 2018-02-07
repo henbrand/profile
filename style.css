@@ -1,0 +1,121 @@
+body {
+  background-color: #F0F0F0;
+}
+
+.light-boxshadow {
+  box-shadow: 2px 2px 3px #DEDEDE;
+}
+
+.container {
+  background-color: #F0F0F0;
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Noto Sans';
+  color: #CC8988;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+h2, h3, h4, p {
+  font-family: 'Raleway';
+  color: #382626;
+
+}
+
+h2 {
+  text-align: center;
+  padding: 10px 5px 10px 5px;
+}
+
+h3 {
+  padding-bottom: 20px;
+}
+
+h4 {
+  margin: 0;
+}
+
+p {
+  padding: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+
+a {
+  text-decoration: none;
+  color: #CC8988;
+  font-size: 25px;
+}
+
+a:hover {
+  color: #CC6767;
+}
+
+.image-size {
+  height: 230px;
+  width: 155px;
+  border-radius: 20px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 0 25px;
+  font-size: 20px;
+
+}
+
+.list-inline ul {
+  padding: 0;
+}
+
+.list-inline {
+  text-align: center;
+  padding: 0;
+  display: center;
+  font-size: 20px;
+}
+
+.fa-linkedin-in {
+  font-size: 25px;
+}
+
+.fa-github {
+  font-size: 25px;
+}
+
+.card {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-radius: 15px;
+}
+
+#image {
+  border-radius: 200px;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+#card-hug {
+  border-radius: 45px;
+  padding: 10px;
+  width: 50%;
+}
+
+.center-div {
+  margin: 0 auto;
+  width: 100px;
+}
+
+
+
+
+
+
